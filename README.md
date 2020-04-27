@@ -12,7 +12,7 @@ Because of the periodic nature of the Sinus curve, there are 4 different calcula
 With adding the angle (360°/numbers of desired mirrorings) now the next mirroring line can be drawn.
 
 ![](mandalaexample.gif)
-
+![](mandalaexample2.gif)
 
 FUTURE ADDITIONS
 -Adding a Button to change the numbers of mirrorings
@@ -23,7 +23,7 @@ FUTURE ADDITIONS
 
 -Adding a Colorpicker Plugin
 
--Adding slider to change the linethikness
+-Adding slider to change the linewidth
 
 -Adding the possibility to erase a line
 
