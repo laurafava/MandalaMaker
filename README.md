@@ -11,7 +11,7 @@ This is done by calculating the angle between 12 Oclock and the mouseposition.
 Because of the periodic nature of the Sinus curve, there are 4 different calculations, depending on the relative Positioning.
 With adding the angle (360°/numbers of desired mirrorings) now the next mirroring line can be drawn.
 
-![](gameplay.gif)
+![](mandalaexample.gif)
 
 
 FUTURE ADDITIONS
