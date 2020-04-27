@@ -16,6 +16,15 @@ With adding the angle (360°/numbers of desired mirrorings) now the next mirrori
 
 FUTURE ADDITIONS
 -Adding a Button to change the numbers of mirrorings
+
 -Adding grid to support the drawing process
+
 -let the user pick, where the middlepoint should be instead of fixed
+
+-Adding a Colorpicker Plugin
+
+-Adding slider to change the linethikness
+
+-Adding the possibility to erase a line
+
 -better Design
